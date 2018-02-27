@@ -1,1 +1,1 @@
-# 01_generator-code-de-bare
+# 01_generator-cod-de-bare
